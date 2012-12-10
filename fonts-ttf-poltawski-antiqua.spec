@@ -39,3 +39,10 @@ ln -s ../../..%{_datadir}/fonts/TTF/antpolt \
 %verify(not mtime) %{_datadir}/fonts/TTF/antpolt/fonts.dir
 %{_datadir}/fonts/TTF/antpolt/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-antpolt:pri=50
+
+
+%changelog
+* Sun Apr 08 2012 Tomasz Pawel Gajc <tpg@mandriva.org> 1.101-1
++ Revision: 789914
+- import fonts-ttf-poltawski-antiqua
+
