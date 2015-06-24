@@ -1,7 +1,7 @@
 Summary:	Truetype's Poltawski-Antiqua fonts
 Name:		fonts-ttf-poltawski-antiqua
 Version:	1.101
-Release:	3
+Release:	4
 License:	GUST Font License
 Group:		System/Fonts/True type
 URL:		http://jmn.pl/antykwa-poltawskiego/
